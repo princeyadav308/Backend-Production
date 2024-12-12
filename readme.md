@@ -4,13 +4,13 @@
 
 All the necessary files and their structure for any professional backend project.
 
-- Database connection.
+- Database connection using MongoDB
 
-- Custom api response and error handling.
+- Custom api response and error handling
 
-- User and video model with hooks and JWT.
+- User and video model with hooks and JWT
 
-## Software/Plugins/Libraries/Dependencies used in this project
+## Softwares/Plugins/Libraries/Dependencies used in this project
 
 1) Mongoose
 2) MongoDB Atlas
@@ -22,3 +22,4 @@ All the necessary files and their structure for any professional backend project
 8) Bcrypt
 9) Json Web Token
 10) Cloudinary
+11) Multer
