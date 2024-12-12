@@ -6,13 +6,13 @@ All the necessary files and their structure for any professional backend project
 
 - Database connection using MongoDB
 
-- Custom api response and error handling
+- Custom api response and error handling setup
 
-- User and video model with hooks and JWT
+- User and video model  setup with hooks and JWT
 
-- File upload using Cloudinary 
+- File upload setup using Cloudinary 
 
-- Middleware using multer
+- Middleware setup using multer
 
 ## Softwares/Plugins/Libraries/Dependencies used in this project
 
