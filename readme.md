@@ -10,6 +10,10 @@ All the necessary files and their structure for any professional backend project
 
 - User and video model with hooks and JWT
 
+- File upload using Cloudinary 
+
+- Middleware using multer
+
 ## Softwares/Plugins/Libraries/Dependencies used in this project
 
 1) Mongoose
