@@ -14,6 +14,8 @@ All the necessary files and their structure for any professional backend project
 
 - Middleware setup using multer
 
+- Routers and Controllers files added and Postman setup
+
 ## Softwares/Plugins/Libraries/Dependencies used in this project
 
 1) Mongoose
