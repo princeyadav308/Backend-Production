@@ -16,6 +16,8 @@ All the necessary files and their structure for any professional backend project
 
 - Routers and Controllers files added and Postman setup
 
+- Database creation, entry, update, verify using Postman and MongoDB Atlas
+
 ## Softwares/Plugins/Libraries/Dependencies used in this project
 
 1) Mongoose
