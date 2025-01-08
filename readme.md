@@ -14,9 +14,11 @@ All the necessary files and their structure for any professional backend project
 
 - Middleware setup using multer
 
-- Routers and Controllers files added and Postman setup
+- Routers, Controllers and Postman setup
 
 - Database creation, entry, update, verify using Postman and MongoDB Atlas
+
+- Access and Refresh Tokens generation, verification, Endpoint setup 
 
 ## Softwares/Plugins/Libraries/Dependencies used in this project
 
