@@ -20,6 +20,8 @@ All the necessary files and their structure for any professional backend project
 
 - Access and Refresh Tokens generation, validation, Endpoint setup 
 
+- Aggregation pipelines
+
 ## Softwares/Plugins/Libraries/Dependencies used in this project
 
 1) Mongoose
