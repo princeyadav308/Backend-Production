@@ -319,4 +319,4 @@ const updateUserCoverImage = asyncHandler(async(req, res) => {
     return res.status(200).json(new ApiResponse(200, user, "Cover Image Updated Successfully"))
 })
 
-export {registerUser, loginUser, logoutUser,refreshAccessToken, changeCurrentPassword, getCurretUser, updateAccountDetails, updateAvatar, updateUserCoverImage}
+export {registerUser, loginUser, logoutUser,refreshAccessToken, changeCurrentPassword, getCurretUser, updateAccountDetails, updateAvatar, updateUserCoverImage}  
